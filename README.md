@@ -38,3 +38,9 @@
 
 **2021.12.22**
 - leetcode1670.设计前中后队列 [掘金](https://juejin.cn/post/7044679547530248199)
+
+**2021.12.26**
+- leetcode859.亲密字符串 [掘金](https://juejin.cn/post/7046002916364124167)
+- 面试题 17.09.第 k 个数 [掘金](https://juejin.cn/post/7046002976300728350)
+- leetcode933.最近的请求次数 [掘金](https://juejin.cn/post/7046003047356432397)
+- leetcode860.柠檬水找零 [掘金](https://juejin.cn/post/7046003105372045342)
