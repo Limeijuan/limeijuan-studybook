@@ -6,8 +6,8 @@
 
 **2022.01.08**
 - leetcode面试题 03.04. 化栈为队 [b站](https://www.bilibili.com/video/BV1e44y157fc)
-- leetcode682. 棒球比赛 [掘金](https://www.bilibili.com/video/BV1jL41157yf?spm_id_from=333.999.0.0)
-- leetcode844. 比较含退格的字符串 [掘金](https://www.bilibili.com/video/BV1dS4y1T7CJ?spm_id_from=333.999.0.0)
+- leetcode682. 棒球比赛 [b站](https://www.bilibili.com/video/BV1jL41157yf?spm_id_from=333.999.0.0)
+- leetcode844. 比较含退格的字符串 [b站](https://www.bilibili.com/video/BV1dS4y1T7CJ?spm_id_from=333.999.0.0)
 
 **2022.01.08**
 - leetcode面试题 03.04. 化栈为队 [掘金](https://juejin.cn/post/7050751417056755749)
