@@ -3,8 +3,10 @@
 每天学一点点～
 
 # 日志
+**2022.01.11**
+- leetcode946.验证栈序列 [b站](https://www.bilibili.com/video/BV17a411q72t?spm_id_from=333.999.0.0)
 
-**2022.01.08**
+**2022.01.10**
 - leetcode面试题 03.04. 化栈为队 [b站](https://www.bilibili.com/video/BV1e44y157fc)
 - leetcode682. 棒球比赛 [b站](https://www.bilibili.com/video/BV1jL41157yf?spm_id_from=333.999.0.0)
 - leetcode844. 比较含退格的字符串 [b站](https://www.bilibili.com/video/BV1dS4y1T7CJ?spm_id_from=333.999.0.0)
