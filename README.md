@@ -3,6 +3,10 @@
 每天学一点点～
 
 # 日志
+
+**2022.01.12**
+- leetcode145. 二叉树的后序遍历 [掘金](https://juejin.cn/post/7052309565408280612)
+
 **2022.01.11**
 - leetcode946.验证栈序列 [b站](https://www.bilibili.com/video/BV17a411q72t?spm_id_from=333.999.0.0)
 
