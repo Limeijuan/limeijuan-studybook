@@ -3,9 +3,48 @@
 每天学一点点～
 
 # 日志
+**2022.03.24**
+- leetcode222. 完全二叉树的节点个数  [掘金](https://juejin.cn/post/7078425061836718093)
 
-**2022.01.12**
-- leetcode145. 二叉树的后序遍历 [掘金](https://juejin.cn/post/7052309565408280612)
+**2022.03.23**
+- leetcode105. 从前序与中序遍历序列构造二叉树 [掘金](https://juejin.cn/post/7078098758470205471)
+
+
+**2022.03.22**
+- leetcode112. 路径总和 [掘金](https://juejin.cn/post/7077907332255973389)
+
+
+**2022.03.21**
+- leetcode110. 平衡二叉树 [掘金](https://juejin.cn/post/7077551074155954183)
+
+**2022.03.20**
+- leetcode 103. 二叉树的锯齿形层序遍历 [掘金](https://juejin.cn/post/7077172661100478472)
+- leetcode 107. 二叉树的层序遍历 II [掘金](https://juejin.cn/post/7077116411612495880)
+- leetcode 剑指 Offer 32 - II. 从上到下打印二叉树 II [掘金](https://juejin.cn/post/7077048180952530952)
+
+**2022.03.19**
+- leetcode226. 翻转二叉树 [掘金](https://juejin.cn/post/7076747752448720903)
+- leetcode589. N 叉树的前序遍历 [掘金](https://juejin.cn/post/7076736078614855688)
+
+**2022.03.09**
+- leetcode144. 二叉树的前序遍历 [掘金](https://juejin.cn/post/7073123930017366047)
+
+**2022.02.21**
+- leetcode 1124. 表现良好的最长时间段 [掘金](https://juejin.cn/post/7067051752201125902)
+
+**2022.02.21**
+- leetcode 1124. 表现良好的最长时间段 [掘金](https://juejin.cn/post/7067051752201125902)
+
+
+**2022.02.01**
+- leetcode 636. 函数的独占时间 [掘金](https://juejin.cn/post/7059736126889656333)
+
+**2022.01.25**
+- leetcode 331. 验证二叉树的前序序列化 [掘金](https://juejin.cn/post/7057040877474185247)
+- leetcode 227. 基本计算器 II [掘金](https://juejin.cn/post/7057027906190458911)
+
+
+
 
 **2022.01.11**
 - leetcode946.验证栈序列 [b站](https://www.bilibili.com/video/BV17a411q72t?spm_id_from=333.999.0.0)
