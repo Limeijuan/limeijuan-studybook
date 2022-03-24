@@ -43,7 +43,8 @@
 - leetcode 331. 验证二叉树的前序序列化 [掘金](https://juejin.cn/post/7057040877474185247)
 - leetcode 227. 基本计算器 II [掘金](https://juejin.cn/post/7057027906190458911)
 
-
+**2022.01.12**
+- leetcode145. 二叉树的后序遍历 [掘金](https://juejin.cn/post/7052309565408280612)
 
 
 **2022.01.11**
